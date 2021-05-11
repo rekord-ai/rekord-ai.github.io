@@ -51,7 +51,7 @@
     "siteUrl": "https://rekord.zyberlab.com",
     "sitemapSwitcherAuto": "on",
     "favicon": false,
-    "mbrsiteDomain": "x3wi7ajudl",
+    "mbrsiteDomain": "h6qum8geor",
     "imageResize": false,
     "cookiesAlert": false,
     "gdpr": false
@@ -60,7 +60,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "rekord.ai | Digitize Gov Documents with AI and Data Analytics",
+        "title": "Rekord.AI | Digitize Gov Documents with AI and Data Analytics",
         "meta_descr": "Digitize Gov Documents with Artificial Intelligence and Data Analytics",
         "header_custom": "",
         "footer_custom": "",
